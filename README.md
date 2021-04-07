@@ -66,10 +66,8 @@ Here are some ideas to get you started:
 
 <a target="_blank" href="https://twitter.com/prashantmi" target="_blank">
 <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  
-<a href="mailto:prashantmindia@gmail.com">
-<img align="left" alt="Prashant Mishra | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  
+</a>
+
 <a target="_blank" href="https://stackoverflow.com/users/6885663/prashant-mishra" target="_blank">
-<img alt="Stackoverflow" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" />
+<img alt="Stackoverflow"  width="26px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" />
 </a>
