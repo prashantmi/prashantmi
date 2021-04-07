@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![Prashantmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashantmi&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <a href="https://github.com/prashantmi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantmi&show_icons=true&theme=dark&line_height=27" alt="prashant's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantmi&show_icons=true&theme=dark&line_height=27" alt="Prashant's github stats"/>
 </a>
 -->
 
@@ -79,5 +79,5 @@ Here are some ideas to get you started:
 </a>
 
 <a target="_blank" href="https://stackoverflow.com/users/6885663/prashant-mishra" target="_blank">
-<img alt="Stackoverflow"  width="26px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" />
+<img alt="Stackoverflow"  width="26px" src="https://github.com/prashantmi/prashantmi/blob/main/resources/stack.svg" />
 </a>
