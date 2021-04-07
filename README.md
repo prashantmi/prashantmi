@@ -22,15 +22,18 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantmi&layout=compact&theme=radical&hide_langs_below=1")](https://github.com/prashantmi/github-readme-stats)
+<a href="https://github.com/prashantmi">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantmi&layout=compact&theme=radical&hide_langs_below=1" />
+</a>
 
 <!--
 <a href="https://github.com/prashantmi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantmi&theme=dark&hide_langs_below=1" />
 </a>
 -->
-
-![Prashantmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashantmi&show_icons=true&theme=radical)
+<a href="https://github.com/prashantmi">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=prashantmi&show_icons=true&theme=radical" />
+</a>
 
 <!--
 - Customizing stats card
