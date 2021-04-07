@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=prashantmi&color=blue)
 -->
 
-# Let's Connect <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
+# Let's Connect <img src="https://github.com/prashantmi/prashantmi/blob/main/resources/Hi.gif" width="26px">
 
 
 <br>
