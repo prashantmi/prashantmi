@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="#">
-  
+  &nbsp
 </a>
 
 <!--
