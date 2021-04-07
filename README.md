@@ -19,6 +19,35 @@ Here are some ideas to get you started:
 
 # Let's Connect <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
 
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantmi&layout=compact&theme=radical&hide_langs_below=1")](https://github.com/prashantmi/github-readme-stats)
+
+<!--
+<a href="https://github.com/prashantmi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantmi&theme=dark&hide_langs_below=1" />
+</a>
+-->
+
+![Prashantmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashantmi&show_icons=true&theme=radical)
+
+<!--
+- Customizing stats card
+
+![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api/?username=prashantmi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+- Gradient
+
+![Prashantmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashantmi&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+<a href="https://github.com/prashantmi">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantmi&show_icons=true&theme=dark&line_height=27" alt="prashant's github stats"/>
+</a>
+-->
+
+<br>
+
 <a target="_blank" href="https://www.linkedin.com/in/prashantmi/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -37,4 +66,10 @@ Here are some ideas to get you started:
 
 <a target="_blank" href="https://twitter.com/prashantmi" target="_blank">
 <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  
+<a href="mailto:prashantmindia@gmail.com">
+<img align="left" alt="Prashant Mishra | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  
+<a target="_blank" href="https://stackoverflow.com/users/6885663/prashant-mishra" target="_blank">
+<img alt="Stackoverflow" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" />
 </a>
