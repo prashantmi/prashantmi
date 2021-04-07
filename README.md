@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br>
 
 <a href="https://github.com/prashantmi">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantmi&layout=compact&theme=radical&hide_langs_below=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantmi&layout=compact&theme=radical&hide_langs_below=1" />
 </a>
 
 <!--
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </a>
 -->
 <a href="https://github.com/prashantmi">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=prashantmi&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prashantmi&show_icons=true&theme=radical" />
 </a>
 
 <!--
@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 -->
 
 <br>
+<br>
+
 
 <a target="_blank" href="https://www.linkedin.com/in/prashantmi/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
